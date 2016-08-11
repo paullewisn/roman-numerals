@@ -1,0 +1,7 @@
+C:\DEV\katas\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.dll
+C:\DEV\katas\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.pdb
+C:\DEV\katas\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.csprojResolveAssemblyReference.cache
+C:\DEV\katas\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.dll
+C:\DEV\katas\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.pdb
+C:\DEV\katas\RomanNumerals\RomanNumerals\bin\Debug\nunit.framework.dll
+C:\DEV\katas\RomanNumerals\RomanNumerals\bin\Debug\nunit.framework.xml

@@ -1,0 +1,10 @@
+C:\DEV\katas\RomanNumerals\RomanNumerals.Tests\obj\Debug\RomanNumerals.Tests.csprojResolveAssemblyReference.cache
+C:\DEV\katas\RomanNumerals\RomanNumerals.Tests\bin\Debug\RomanNumerals.Tests.dll.config
+C:\DEV\katas\RomanNumerals\RomanNumerals.Tests\bin\Debug\RomanNumerals.Tests.dll
+C:\DEV\katas\RomanNumerals\RomanNumerals.Tests\bin\Debug\RomanNumerals.Tests.pdb
+C:\DEV\katas\RomanNumerals\RomanNumerals.Tests\bin\Debug\nunit.framework.dll
+C:\DEV\katas\RomanNumerals\RomanNumerals.Tests\bin\Debug\RomanNumerals.dll
+C:\DEV\katas\RomanNumerals\RomanNumerals.Tests\bin\Debug\RomanNumerals.pdb
+C:\DEV\katas\RomanNumerals\RomanNumerals.Tests\bin\Debug\nunit.framework.xml
+C:\DEV\katas\RomanNumerals\RomanNumerals.Tests\obj\Debug\RomanNumerals.Tests.dll
+C:\DEV\katas\RomanNumerals\RomanNumerals.Tests\obj\Debug\RomanNumerals.Tests.pdb

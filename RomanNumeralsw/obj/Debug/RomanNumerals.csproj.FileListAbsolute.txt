@@ -1,0 +1,2 @@
+C:\DEV\katas\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.exe.config
+C:\DEV\katas\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.csprojResolveAssemblyReference.cache
